@@ -29,7 +29,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
     @stack('js')
 </head>
 
-<body class="hold-transition layout-top-nav text-sm">
+<body class="hold-transition layout-top-nav text-sm layout-fixed layout-navbar-fixed layout-footer-fixed">
     <div class="wrapper">
 
         <!-- Navbar -->
